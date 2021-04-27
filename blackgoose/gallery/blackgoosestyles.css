@@ -1,0 +1,47 @@
+#jenskitchen {
+	margin: 2em 5%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #faf2e4;
+}
+.review {
+	color: red;
+}
+body {
+	background-color: #faf2e4;
+	margin: 0 10%;
+	font-family: sans-serif;
+  }
+h1 {
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #57b1dc;
+	margin-top: 30px;
+}
+h2 {
+	color: #d1633c;
+	font-size: 1em;
+}
+p {
+	font-size: large;
+	font-family: sans-serif;
+	margin-left: 100px;
+}
+a {
+	font-size: 125%;
+}
+ol, ul { 
+    list-style-type: none;
+}
+li {
+	font-family: sans-serif;
+	text-transform: uppercase;
+}
+small {
+	color: #999;
+}
+p.disclaimer { 
+    border-top: 1px solid #d1633c; 
+    padding-top: 1em;
+}
